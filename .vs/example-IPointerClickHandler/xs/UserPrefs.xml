@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{94AEB47E-C5E5-DC86-29C1-7A2F1B5B627A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Cube.cs">
+    <Files>
+      <File FileName="Assets/Cube.cs" Line="15" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="example-IPointerClickHandler" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Cube.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7597bf60-28bf-43cc-847b-198bd3042af8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
